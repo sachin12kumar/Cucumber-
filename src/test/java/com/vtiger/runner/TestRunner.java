@@ -13,7 +13,7 @@ import io.cucumber.junit.CucumberOptions;
 	//	plugin = {"pretty", "html:target/cucumber-reports.html"},
 	    plugin = {"pretty", "html:target/cucumber-reports.html", "json:target/cucumber.json"},
 		//tags = "@only",
-		tags = "@invalid2",
+		tags = "@release123",
 		//dryRun = true,
 		monochrome = true
 		)
